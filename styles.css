@@ -1,0 +1,14 @@
+.body{
+    --background: -webkit-linear-gradient(top, #5cffe4 0%, #54a6e5 100%);
+}
+
+.logo{
+    display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.titleText{
+    text-align: center;
+    width: 100%;
+}
