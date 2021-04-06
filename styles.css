@@ -1,5 +1,5 @@
 body{
-    --background: -webkit-linear-gradient(top, #5cffe4 0%, #54a6e5 100%);
+    background: -webkit-linear-gradient(top, #5cffe4 0%, #54a6e5 100%);
 }
 
 .logo{
